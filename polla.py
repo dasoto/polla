@@ -108,8 +108,11 @@ class Polla:
     
     def _write_scoreboard(self):
         output_markdown = [
-            '# Copa America 2024 Scoreboard - Rlz\n',
+            '# Copa America 2024\n',
             '\n',
+            'This is a repo with a piece of code to keep track of the fantasy game with my friends',
+            ' for the Copa America 2024.\n\n'
+            '## Scoreboard'
             '| Position | Nombre | Score |\n',
             '| -------- | ------ | ----- |\n',
             
@@ -117,7 +120,7 @@ class Polla:
         for index, row in self.scoreboard.iterrows():
             print(row)
             output_markdown.append(f'|{index}. | {row.Participante} | {row.Points} |\n')
-        with open('scoreboard.md', 'w') as md:
+        with open('README.md', 'w') as md:
             md.writelines(output_markdown)
 
 
