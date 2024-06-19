@@ -2,6 +2,7 @@
 from typing import List
 import pandas as pd
 from glob import glob
+from score_updates import get_latest_scores
 
 
 class Polla:
@@ -58,7 +59,16 @@ class Polla:
             i += 1
         return all_data_clean, last_four
 
-
+    def update_goals(self):
+        latest_scores = get_latest_scores(simulate=False)
+        print(f'Latest Scores: {latest_scores}')
+        for result in latest_scores:
+            local_team, visit_team = result.keys()
+            goal_local, goal_visit = result.values()
+            index_match = self.master_plan[(self.master_plan.Status != 'jugado') & (self.master_plan.Local == local_team) & (polla.master_plan.Visita == visit_team)].index
+            self.master_plan.loc[index_match, 'goal_local'] = goal_local
+            self.master_plan.loc[index_match, 'goal_visita'] = goal_visit
+            self.master_plan.loc[index_match, 'Status'] = 'playing'            
 
     def _get_tendencia(self, row):
         if row['Status'] == 'pendiente':
@@ -90,7 +100,7 @@ class Polla:
 
     def _get_points_finalists(self, participant, df):
         total_score = 0
-        for index, row in df[df.Status == 'jugado'].iterrows():
+        for index, row in df[df.Status != 'pendiente'].iterrows():
             if row.Results == row[participant]:
                 total_score += 3
             elif row[participant] in df.Results:
@@ -99,7 +109,7 @@ class Polla:
 
     def _get_points(self, participant, df):
         total_score = 0
-        for index, row in df[df.Status == 'jugado'].iterrows():
+        for index, row in df[df.Status != 'pendiente'].iterrows():
             if row.results == row[participant]:
                 total_score += 3
             elif row.results[0:1] == row[participant][0:1]:
@@ -128,6 +138,8 @@ class Polla:
 
 if __name__ == '__main__':
     polla = Polla()
+    polla.update_goals()
+    import pdb; pdb.set_trace()
     polla.compute_results()
     scoreboard = polla.build_scoreboard()
     print(scoreboard)
