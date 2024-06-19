@@ -112,7 +112,7 @@ class Polla:
             '\n',
             'This is a repo with a piece of code to keep track of the fantasy game with my friends',
             ' for the Copa America 2024.\n\n'
-            '## Scoreboard'
+            '## Scoreboard\n\n'
             '| Position | Nombre | Score |\n',
             '| -------- | ------ | ----- |\n',
             
