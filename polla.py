@@ -111,7 +111,9 @@ class Polla:
             '# Copa America 2024\n',
             '\n',
             'This is a repo with a piece of code to keep track of the fantasy game with my friends',
-            ' for the Copa America 2024.\n\n'
+            ' for the Copa America 2024.\n\n',
+            '## Predicciones y resultados parciales\n',
+            '- [Pronosticos y resultados](https://github.com/dasoto/polla/blob/main/master_plan.csv)\n'
             '## Scoreboard\n\n'
             '| Position | Nombre | Score |\n',
             '| -------- | ------ | ----- |\n',
