@@ -13,9 +13,10 @@ This is a repo with a piece of code to keep track of the fantasy game with my fr
 |3. | Black | 0 |
 |4. | criss | 0 |
 |5. | David | 0 |
-|6. | kevin | 0 |
-|7. | Lucas | 0 |
-|8. | maigus | 0 |
-|9. | roberto | 0 |
-|10. | samuel | 0 |
-|11. | Wabers | 0 |
+|6. | Gabito | 0 |
+|7. | kevin | 0 |
+|8. | Lucas | 0 |
+|9. | maigus | 0 |
+|10. | roberto | 0 |
+|11. | samuel | 0 |
+|12. | Wabers | 0 |
