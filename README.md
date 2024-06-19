@@ -15,3 +15,4 @@ This is a repo with a piece of code to keep track of the fantasy game with my fr
 |5. | maigus | 0 |
 |6. | roberto | 0 |
 |7. | samuel | 0 |
+|8. | Wabers | 0 |
