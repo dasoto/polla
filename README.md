@@ -6,9 +6,9 @@ This is a repo with a piece of code to keep track of the fantasy game with my fr
 
 | Position | Nombre | Score |
 | -------- | ------ | ----- |
-|1. | maigus | 4 |
-|2. | roberto | 3 |
-|3. | samuel | 3 |
-|4. | angelo | 1 |
-|5. | kevin | 1 |
-|6. | andyk | 0 |
+|1. | andyk | 0 |
+|2. | angelo | 0 |
+|3. | kevin | 0 |
+|4. | maigus | 0 |
+|5. | roberto | 0 |
+|6. | samuel | 0 |
