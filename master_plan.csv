@@ -1,0 +1,33 @@
+Match,Group,Date,Time,Local,goal_local,goal_visita,Visita,Stadium,Status,andyk,roberto,results,kevin,angelo,maigus,samuel
+1,A,20-Jun,20:00,Argentina,2.0,1.0,Canadá,"Atlanta, GA (Mercedes-Benz Stadium)",jugado,2|1-2,1|2-1,1|2-1,1|2-0,1|2-0,1|2-1,1|2-1
+2,A,21-Jun,20:00,Perú,2.0,2.0,Chile,"Arlington, TX (AT&T Stadium)",jugado,1|2-1,2|1-3,X|2-2,2|0-1,2|1-2,X|1-1,2|1-2
+3,B,22-Jun,18:00,Ecuador,,,Venezuela,"Santa Clara, CA (Levi's Stadium)",pendiente,2|1-2,X|2-2,-,X|1-1,1|2-1,X|1-1,1|2-0
+4,B,22-Jun,19:00,México,,,Jamaica,"Houston, TX (NRG Stadium)",pendiente,X|1-1,1|2-0,-,1|2-0,1|1-0,1|2-1,1|1-0
+5,C,23-Jun,18:00,Estados Unidos,,,Bolivia,"Arlington, TX (AT&T Stadium)",pendiente,2|1-2,1|2-1,-,X|1-1,1|2-0,1|3-1,1|1-0
+6,C,23-Jun,19:00,Uruguay,,,Panamá,"Miami, FL (Hard Rock Stadium)",pendiente,X|1-1,1|4-0,-,1|3-0,1|3-0,1|2-1,1|2-0
+7,D,24-Jun,18:00,Colombia,,,Paraguay,"Houston, TX (NRG Stadium)",pendiente,2|1-2,1|2-0,-,1|2-0,1|2-1,X|1-1,1|2-0
+8,D,24-Jun,19:00,Brasil,,,Costa Rica,"Inglewood, CA (SoFi Stadium)",pendiente,X|2-2,1|2-0,-,1|3-0,1|2-0,1|3-0,1|3-0
+9,A,25-Jun,18:00,Perú,,,Canadá,"Kansas City, KS (Children's Mercy Park)",pendiente,X|1-1,2|1-2,-,X|1-1,1|1-0,1|2-1,1|2-0
+10,A,25-Jun,21:00,Chile,,,Argentina,"East Rutherford, NJ (MetLife Stadium)",pendiente,X|1-1,2|1-2,-,X|1-1,X|1-1,2|0-3,X|1-1
+11,B,26-Jun,18:00,Ecuador,,,Jamaica,"Las Vegas, NV (Allegiant Stadium)",pendiente,1|2-1,1|2-0,-,1|2-0,1|3-0,1|2-0,X|2-2
+12,B,26-Jun,19:00,Venezuela,,,México,"Inglewood, CA (SoFi Stadium)",pendiente,1|3-2,1|2-1,-,X|1-1,X|1-1,2|1-3,2|1-3
+13,C,27-Jun,18:00,Panamá,,,Estados Unidos,"Atlanta, GA (Mercedes-Benz Stadium)",pendiente,1|2-1,2|0-2,-,2|0-1,2|1-2,2|0-1,2|0-1
+14,C,27-Jun,19:00,Uruguay,,,Bolivia,"East Rutherford, NJ (MetLife Stadium)",pendiente,X|1-1,1|3-0,-,1|2-0,1|3-0,1|2-1,1|1-0
+15,D,28-Jun,18:00,Colombia,,,Costa Rica,"Glendale, AZ (State Farm Stadium)",pendiente,X|1-1,1|2-1,-,1|1-0,1|1-0,1|2-0,1|1-0
+16,D,28-Jun,19:00,Paraguay,,,Brasil,"Las Vegas, NV (Allegiant Stadium)",pendiente,X|1-1,2|0-1,-,2|0-3,2|0-2,2|0-3,2|0-4
+17,A,29-Jun,20:00,Argentina,,,Perú,"Miami, FL (Hard Rock Stadium)",pendiente,2|1-2,1|3-0,-,1|2-0,1|2-0,1|3-1,1|2-0
+18,A,29-Jun,20:00,Canadá,,,Chile,"Orlando, FL (Exploria Stadium)",pendiente,2|1-2,2|0-1,-,2|1-2,2|0-2,X|2-2,2|1-2
+19,B,30-Jun,20:00,Jamaica,,,Venezuela,"Austin, TX (Q2 Stadium)",pendiente,1|4-3,X|1-1,-,X|1-1,2|0-2,X|1-1,1|2-1
+20,B,30-Jun,20:00,México,,,Ecuador,"Glendale, AZ (State Farm Stadium)",pendiente,2|1-3,2|1-3,-,1|1-0,2|0-1,2|0-3,1|2-1
+21,C,1-Jul,21:00,Bolivia,,,Panamá,"Orlando, FL (Exploria Stadium)",pendiente,X|1-1,2|1-2,-,2|1-2,2|1-2,1|2-1,2|1-2
+22,C,1-Jul,21:00,Estados Unidos,,,Uruguay,"Kansas City, MO (Arrowhead Stadium)",pendiente,X|1-1,1|2-1,-,1|1-0,X|1-1,X|1-1,X|0-0
+23,D,2-Jul,21:00,Costa Rica,,,Paraguay,"Austin, TX (Q2 Stadium)",pendiente,2|1-2,X|1-1,-,X|2-2,1|2-1,1|3-1,1|2-0
+24,D,2-Jul,21:00,Brasil,,,Colombia,"Santa Clara, CA (Levi's Stadium)",pendiente,2|1-2,X|1-1,-,1|1-0,X|0-0,1|2-1,1|1-0
+25,QF,4-Jul,20:00,Primero Grupo A,,,Segundo Grupo B,"Houston, TX (NRG Stadium)",pendiente,2|1-2,1|2-0,-,1|3-0,1|2-0,1|2-0,1|2-1
+26,QF,5-Jul,20:00,Primero Grupo B,,,Segundo Grupo A,"Arlington, TX (AT&T Stadium)",pendiente,2|1-2,2|1-3,-,X|1-1,2|0-1,X|1-1,2|1-3
+27,QF,6-Jul,18:00,Primero Grupo C,,,Segundo Grupo D,"Las Vegas, NV (Allegiant Stadium)",pendiente,2|1-2,1|2-1,-,1|2-0,1|2-1,1|2-1,1|2-0
+28,QF,6-Jul,15:00,Primero Grupo D,,,Segundo Grupo C,"Glendale, AZ (State Farm Stadium)",pendiente,2|1-2,1|2-1,-,1|1-0,1|2-1,1|1-0,1|2-0
+29,SF,9-Jul,20:00,Ganador partido 25,,,Ganador partido 26,"East Rutherford, NJ (MetLife Stadium)",pendiente,2|1-2,1|2-1,-,2|1-2,2|0-1,1|2-1,2|1-2
+30,SF,9-Jul,20:00,Ganador partido 27,,,Ganador partido 28,"Charlotte, NC (Bank of America Stadium)",pendiente,2|1-2,1|1-0,-,1|2-0,2|1-2,2|1-3,1|2-1
+31,3rd,13-Jul,20:00,Perdedor partido 29,,,Perdedor partido 30,"Charlotte, NC (Bank of America Stadium)",pendiente,2|1-2,X|2-2,-,1|2-0,1|2-1,X|1-1,2|1-2
+32,F,14-Jul,20:00,Ganador partido 29,,,Ganador partido 30,"Hard Rock Stadium (Miami, FL)",pendiente,2|1-2,2|0-1,-,1|1-0,1|2-1,X|2-2,2|1-2
