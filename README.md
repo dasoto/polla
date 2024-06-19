@@ -2,7 +2,9 @@
 
 This is a repo with a piece of code to keep track of the fantasy game with my friends for the Copa America 2024.
 
-## Scoreboard| Position | Nombre | Score |
+## Scoreboard
+
+| Position | Nombre | Score |
 | -------- | ------ | ----- |
 |1. | maigus | 4 |
 |2. | roberto | 3 |
