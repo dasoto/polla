@@ -9,6 +9,7 @@ URL_COPA_AMERICA = 'https://www.futbol24.com/international/CONMEBOL/Copa-America
 
 def parse_match(c):
     match = c.a.get('href')
+    status = 'jugado' if 'black' in c.a.attrs['class'] else 'jugando'
     # regex = r"/([^/]+)/vs/([^/]+)/"
     # matches = re.findall(regex, match)
     matches = None
@@ -20,7 +21,7 @@ def parse_match(c):
     score = c.a.text
 
 
-    return {local_team: score.split('-')[0], visit_team: score.split('-')[1]}
+    return {local_team: score.split('-')[0], visit_team: score.split('-')[1], 'status': status}
 
 def get_latest_scores(
         url:str = URL_COPA_AMERICA,
@@ -29,8 +30,8 @@ def get_latest_scores(
     if simulate:
         print('Simulating results')
         return [
-            {'Argentina': 2, 'Canada': 0},
-            {'Peru': 0, 'Chile': 1}
+            {'Argentina': 2, 'Canada': 0, 'status': 'jugado'},
+            {'Peru': 0, 'Chile': 1, 'status': 'jugado'}
         ]
     page = urlopen(url)
     html = page.read().decode("utf-8")

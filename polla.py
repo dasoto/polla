@@ -5,6 +5,7 @@ from glob import glob
 from score_updates import get_latest_scores
 
 
+
 class Polla:
     def __init__(
             self, 
@@ -63,12 +64,12 @@ class Polla:
         latest_scores = get_latest_scores(simulate=False)
         print(f'Latest Scores: {latest_scores}')
         for result in latest_scores:
-            local_team, visit_team = result.keys()
-            goal_local, goal_visit = result.values()
+            local_team, visit_team, _ = result.keys()
+            goal_local, goal_visit, status = result.values()
             index_match = self.master_plan[(self.master_plan.Status != 'jugado') & (self.master_plan.Local == local_team) & (polla.master_plan.Visita == visit_team)].index
             self.master_plan.loc[index_match, 'goal_local'] = goal_local
             self.master_plan.loc[index_match, 'goal_visita'] = goal_visit
-            self.master_plan.loc[index_match, 'Status'] = 'playing'            
+            self.master_plan.loc[index_match, 'Status'] = status            
 
     def _get_tendencia(self, row):
         if row['Status'] == 'pendiente':
@@ -139,12 +140,10 @@ class Polla:
 if __name__ == '__main__':
     polla = Polla()
     polla.update_goals()
-    import pdb; pdb.set_trace()
     polla.compute_results()
     scoreboard = polla.build_scoreboard()
     print(scoreboard)
     polla.save()
-
     polla._write_scoreboard()
 
 
