@@ -16,8 +16,9 @@ This is a repo with a piece of code to keep track of the fantasy game with my fr
 |6. | Gabito | 0 |
 |7. | Karla | 0 |
 |8. | Kevin | 0 |
-|9. | Lucas | 0 |
-|10. | Maigus | 0 |
-|11. | Roberto | 0 |
-|12. | Samuel | 0 |
-|13. | Wabers | 0 |
+|9. | Lawrence | 0 |
+|10. | Lucas | 0 |
+|11. | Maigus | 0 |
+|12. | Roberto | 0 |
+|13. | Samuel | 0 |
+|14. | Wabers | 0 |
