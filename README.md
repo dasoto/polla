@@ -8,12 +8,12 @@ This is a repo with a piece of code to keep track of the fantasy game with my fr
 
 | Position | Nombre | Score |
 | -------- | ------ | ----- |
-|1. | Andyk | 3 |
-|2. | Angelo | 3 |
-|3. | Black | 3 |
-|4. | Kevin | 3 |
-|5. | Maigus | 2 |
-|6. | Criss | 1 |
+|1. | Black | 6 |
+|2. | Criss | 4 |
+|3. | Andyk | 3 |
+|4. | Angelo | 3 |
+|5. | Kevin | 3 |
+|6. | Maigus | 2 |
 |7. | David | 1 |
 |8. | Gabito | 1 |
 |9. | Lawrence | 1 |
