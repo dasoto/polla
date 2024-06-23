@@ -13,10 +13,10 @@ This is a repo with a piece of code to keep track of the fantasy game with my fr
 |3. | Andyk | 3 |
 |4. | Angelo | 3 |
 |5. | Kevin | 3 |
-|6. | Maigus | 2 |
-|7. | David | 1 |
-|8. | Gabito | 1 |
-|9. | Lawrence | 1 |
+|6. | Lawrence | 2 |
+|7. | Maigus | 2 |
+|8. | David | 1 |
+|9. | Gabito | 1 |
 |10. | Lucas | 1 |
 |11. | Roberto | 1 |
 |12. | Samuel | 1 |
