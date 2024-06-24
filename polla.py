@@ -131,7 +131,6 @@ class Polla:
             
             ]
         for index, row in self.scoreboard.iterrows():
-            print(row)
             output_markdown.append(f'|{index}. | {row.Participante} | {row.Points} |\n')
         with open('README.md', 'w') as md:
             md.writelines(output_markdown)
@@ -144,6 +143,7 @@ if __name__ == '__main__':
     scoreboard = polla.build_scoreboard()
     print(scoreboard)
     polla.save()
+    print(polla.master_plan)
     polla._write_scoreboard()
 
 
