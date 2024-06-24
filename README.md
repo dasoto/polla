@@ -11,10 +11,10 @@ This is a repo with a piece of code to keep track of the fantasy game with my fr
 |1. | Angelo | 10 |
 |2. | Black | 9 |
 |3. | Criss | 9 |
-|4. | Andyk | 8 |
-|5. | David | 6 |
-|6. | Lucas | 6 |
-|7. | Samuel | 6 |
+|4. | Samuel | 8 |
+|5. | Andyk | 6 |
+|6. | David | 6 |
+|7. | Lucas | 6 |
 |8. | Wabers | 6 |
 |9. | Kevin | 5 |
 |10. | Maigus | 5 |
