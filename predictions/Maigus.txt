@@ -1,0 +1,90 @@
+1|2-1
+X|1-1
+X|1-1
+1|2-1
+1|3-1
+1|2-1
+X|1-1
+1|3-0
+1|2-1
+2|0-3
+1|2-0
+2|1-3
+2|0-1
+1|2-1
+1|2-0
+2|0-3
+1|3-1
+X|2-2
+X|1-1
+2|0-3
+1|2-1
+X|1-1
+1|3-1
+1|2-1
+
+
+Argentina
+Perú
+Chile
+Canadá
+México
+Ecuador
+Venezuela
+Jamaica
+Estados Unidos
+Uruguay
+Panamá
+Bolivia
+Brazil
+Colombia
+Costa Rica
+Paraguay
+
+
+Argentina
+México
+Brazil
+Estados Unidos
+Ecuador
+Perú
+Uruguay
+Colombia
+
+
+Argentina-Ecuador·1|2-0
+México-Perú·X|1-1
+Brazil-Uruguay·1|2-1
+Estados Unidos-Colombia·1|1-0
+
+
+Argentina
+Estados Unidos
+México
+Brazil
+
+
+Argentina-México·1|2-1
+Estados Unidos-Brazil·2|1-3
+
+
+México
+Estados Unidos
+
+
+Argentina
+Brazil
+
+
+México-Estados Unidos·X|1-1
+
+
+Argentina-Brazil·X|2-2
+
+
+Argentina
+Brazil
+Mexico
+USA
+Lionel Messi
+Emiliano Martinez

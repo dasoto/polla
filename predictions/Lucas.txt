@@ -1,0 +1,90 @@
+1|3-0
+2|1-2
+1|1-0
+1|2-0
+1|2-0
+1|3-1
+1|2-1
+2|1-2
+1|1-0
+X|2-2
+1|2-1
+2|0-2
+2|1-2
+1|4-0
+X|2-2
+2|0-2
+1|3-1
+2|0-2
+2|1-2
+1|1-0
+2|1-3
+2|1-2
+2|2-3
+1|2-1
+
+
+Argentina
+Chile
+Perú
+Canadá
+Ecuador
+México
+Jamaica
+Venezuela
+Uruguay
+Estados Unidos
+Panamá
+Bolivia
+Colombia
+Costa Rica
+Brazil
+Paraguay
+
+
+Argentina
+Ecuador
+Colombia
+Uruguay
+México
+Chile
+Estados Unidos
+Costa Rica
+
+
+Argentina-México·1|3-1
+Ecuador-Chile·2|1-2
+Colombia-Estados Unidos·1|2-0
+Uruguay-Costa Rica·1|2-1
+
+
+Argentina
+Uruguay
+Chile
+Colombia
+
+
+Argentina-Chile·X|2-2
+Uruguay-Colombia·1|3-2
+
+
+Argentina
+Colombia
+
+
+Chile
+Uruguay
+
+
+Argentina-Colombia·1|2-1
+
+
+Chile-Uruguay·X|2-2
+
+
+Chile
+Uruguay
+Argentina
+Colombia
+Ben Brereton Díaz
+Claudio Bravo
