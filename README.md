@@ -9,9 +9,9 @@ This is a repo with a piece of code to keep track of the fantasy game with my fr
 | Position | Nombre | Score |
 | -------- | ------ | ----- |
 |1. | Angelo | 13 |
-|2. | Lucas | 11 |
-|3. | Black | 10 |
-|4. | Criss | 10 |
+|2. | Criss | 11 |
+|3. | Lucas | 11 |
+|4. | Black | 10 |
 |5. | Wabers | 9 |
 |6. | Andyk | 7 |
 |7. | David | 7 |
