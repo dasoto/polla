@@ -14,7 +14,7 @@ Match,Group,Date,Time,Local,goal_local,goal_visita,Visita,Stadium,Status,results
 13,C,27-Jun,18:00,Panama,2.0,1.0,USA,"Atlanta, GA (Mercedes-Benz Stadium)",jugado,1|2-1,2|0-2,2|1-2,2|0-2,2|0-3,2|1-3,2|1-2,2|1-2,2|0-2,2|0-1,2|0-1,2|0-2,2|0-1,2|1-3,2|0-2
 14,C,27-Jun,21:00,Uruguay,5.0,0.0,Bolivia,"East Rutherford, NJ (MetLife Stadium)",jugado,1|5-0,1|3-0,1|4-0,1|3-1,1|3-1,1|3-0,1|2-0,1|3-0,1|2-1,1|2-0,1|2-1,1|3-0,1|1-0,1|3-0,1|3-1
 15,D,28-Jun,18:00,Colombia,3.0,0.0,Costa Rica,"Glendale, AZ (State Farm Stadium)",jugado,1|3-0,1|2-0,X|2-2,1|2-0,1|3-0,1|2-1,1|2-1,1|1-0,1|2-0,1|1-0,1|2-0,1|2-1,1|1-0,1|3-1,1|2-1
-16,D,28-Jun,21:00,Paraguay,0,3,Brazil,"Las Vegas, NV (Allegiant Stadium)",jugando,2|0-3,2|0-3,2|0-2,2|0-2,2|0-2,2|1-2,2|0-2,2|0-2,2|0-2,2|0-3,2|0-3,2|0-1,2|0-4,2|1-2,2|0-2
+16,D,28-Jun,21:00,Paraguay,1,3,Brazil,"Las Vegas, NV (Allegiant Stadium)",jugando,2|1-3,2|0-3,2|0-2,2|0-2,2|0-2,2|1-2,2|0-2,2|0-2,2|0-2,2|0-3,2|0-3,2|0-1,2|0-4,2|1-2,2|0-2
 17,A,29-Jun,20:00,Argentina,,,Peru,"Miami, FL (Hard Rock Stadium)",pendiente,-,1|2-0,1|3-1,1|3-0,1|2-0,1|3-0,1|2-1,1|2-0,1|4-1,1|2-0,1|3-1,1|3-0,1|2-0,1|3-1,1|3-2
 18,A,29-Jun,20:00,Canada,,,Chile,"Orlando, FL (Exploria Stadium)",pendiente,-,2|1-3,2|0-2,2|0-2,2|1-3,2|0-3,2|0-2,2|0-2,2|1-2,2|1-2,X|2-2,2|0-1,2|1-2,2|1-3,2|0-2
 19,B,30-Jun,20:00,Jamaica,,,Venezuela,"Austin, TX (Q2 Stadium)",pendiente,-,2|1-2,2|1-2,2|1-2,2|1-2,2|1-2,2|1-2,2|0-2,2|1-2,X|1-1,X|1-1,X|1-1,1|2-1,2|1-2,2|0-2
