@@ -8,17 +8,17 @@ This is a repo with a piece of code to keep track of the fantasy game with my fr
 
 | Position | Nombre | Score |
 | -------- | ------ | ----- |
-|1. | Angelo | 18 |
-|2. | Black | 17 |
-|3. | Wabers | 17 |
+|1. | Angelo | 20 |
+|2. | Wabers | 19 |
+|3. | Black | 17 |
 |4. | Criss | 16 |
-|5. | Andyk | 15 |
-|6. | Lucas | 15 |
-|7. | David | 14 |
-|8. | Roberto | 13 |
-|9. | Maigus | 12 |
-|10. | Kevin | 11 |
-|11. | Samuel | 11 |
+|5. | David | 16 |
+|6. | Andyk | 15 |
+|7. | Lucas | 15 |
+|8. | Kevin | 13 |
+|9. | Roberto | 13 |
+|10. | Samuel | 13 |
+|11. | Maigus | 12 |
 |12. | Gabito | 10 |
 |13. | Lawrence | 10 |
 |14. | Karla | 8 |
