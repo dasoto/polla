@@ -19,8 +19,8 @@ Match,Group,Date,Time,Local,goal_local,goal_visita,Visita,Stadium,Status,results
 18,A,29-Jun,20:00,Canada,0.0,0.0,Chile,"Orlando, FL (Exploria Stadium)",jugado,X|0-0,2|1-3,2|0-2,2|0-2,2|1-3,2|0-3,2|0-2,2|0-2,2|1-2,2|1-2,X|2-2,2|0-1,2|1-2,2|1-3,2|0-2
 19,B,30-Jun,20:00,Mexico,0.0,0.0,Ecuador,"Glendale, AZ (State Farm Stadium)",jugado,X|0-0,2|1-2,2|1-2,2|1-2,2|1-2,2|1-2,2|1-2,2|0-2,2|1-2,X|1-1,X|1-1,X|1-1,1|2-1,2|1-2,2|0-2
 20,B,30-Jun,20:00,Jamaica,0.0,3.0,Venezuela,"Austin, TX (Q2 Stadium)",jugado,2|0-3,X|1-1,1|1-0,2|0-3,X|1-1,1|2-1,2|0-1,2|0-1,2|0-3,1|1-0,2|0-3,2|1-3,1|2-1,X|1-1,2|0-2
-21,C,1-Jul,21:00,USA,,,Uruguay,"Kansas City, MO (Arrowhead Stadium)",pendiente,-,X|1-1,2|1-3,2|1-2,2|1-2,2|1-3,2|1-2,2|1-2,2|2-3,2|1-2,1|2-1,2|1-2,2|1-2,2|1-2,2|0-2
-22,C,1-Jul,21:00,Bolivia,,,Panama,"Orlando, FL (Exploria Stadium)",pendiente,-,2|0-2,2|1-2,X|1-1,X|2-2,X|1-1,X|0-0,X|1-1,X|2-2,1|1-0,X|1-1,1|2-1,X|0-0,X|1-1,1|1-0
+21,C,1-Jul,21:00,USA,0,0,Uruguay,"Kansas City, MO (Arrowhead Stadium)",jugando,X|0-0,X|1-1,2|1-3,2|1-2,2|1-2,2|1-3,2|1-2,2|1-2,2|2-3,2|1-2,1|2-1,2|1-2,2|1-2,2|1-2,2|0-2
+22,C,1-Jul,21:00,Bolivia,0,0,Panama,"Orlando, FL (Exploria Stadium)",jugando,X|0-0,2|0-2,2|1-2,X|1-1,X|2-2,X|1-1,X|0-0,X|1-1,X|2-2,1|1-0,X|1-1,1|2-1,X|0-0,X|1-1,1|1-0
 23,D,2-Jul,21:00,Brazil,,,Colombia,"Santa Clara, CA (Levi's Stadium)",pendiente,-,1|2-1,2|2-3,1|2-1,2|1-2,2|2-3,X|1-1,1|2-1,X|2-2,X|2-2,1|3-1,X|1-1,1|2-0,2|2-3,1|2-1
 24,D,2-Jul,21:00,Costa Rica,,,Paraguay,"Austin, TX (Q2 Stadium)",pendiente,-,X|1-1,1|2-1,2|1-2,X|2-2,2|1-2,2|1-2,X|0-0,X|1-1,1|1-0,1|2-1,X|1-1,1|1-0,1|2-1,2|0-2
 25,QF,4-Jul,21:00,Primero Grupo A,,,Segundo Grupo B,"Houston, TX (NRG Stadium)",pendiente,-,1|1-0,1|3-1,1|2-0,1|2-1,1|2-0,1|2-1,1|2-0,1|2-0,1|3-0,1|2-0,1|2-0,1|2-1,1|3-0,1|2-0
